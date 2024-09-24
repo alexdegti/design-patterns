@@ -1,0 +1,5 @@
+SE BubbleSlime_4
+GOE Feralball_2,Stumpkin_3,WellWishier_8,GrimGrinner_5
+SE BurningMan_6
+OFOE SlimeKnight_4,SlimeKnight_4,Slime_1 Babygoyle_3,Babygoyle_3,GoblinPixie_5,GoblinPixie_5
+SE DeadResident_9

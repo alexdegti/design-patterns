@@ -49,7 +49,7 @@ class GangOfEnemies(Adversary):
 	def __init__(self, enemiesList):
 		self.enemiesList = enemiesList
 
-	#A method that returns a sting representation of a 
+	#A method that returns a string representation of a 
 	#gang of enemies.
 	def __str__(self):
 
